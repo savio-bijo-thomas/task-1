@@ -1,4 +1,5 @@
 # lab-1
+lab day-1 codes
 1.Code for gather student name and age
 2.Code for concatinating a string
 3.Code that demonstrates the usage of arithmetic, comparison, and logical operators
