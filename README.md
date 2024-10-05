@@ -1,6 +1,6 @@
 # lab-1
-Code for gather student name and age
-Code for concatinating a string
-Code that demonstrates the usage of arithmetic, comparison, and logical operators
-Code which uses functions from the math module
-Program to print the following string in a specific format 
+1.Code for gather student name and age
+2.Code for concatinating a string
+3.Code that demonstrates the usage of arithmetic, comparison, and logical operators
+4.Code which uses functions from the math module
+5.Program to print the following string in a specific format 
